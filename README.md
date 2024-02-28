@@ -17,7 +17,7 @@ learned Embedded systems engineering, data anaysis, and currently into data engi
 
 ## EDUCATION
 JUL 2024    
-**Faculty of Engineering, Tanta University- Electrical Engineering Bachelor**
+**Faculty of Engineering, Tanta University- Electrical Engineering Bachelor**                 
 Electronics and Electrical Communications Engineering Department
 
 ## HIGHLIGHTED VOLUNTEERING 🤗
