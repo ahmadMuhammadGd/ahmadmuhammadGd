@@ -13,25 +13,14 @@ My name is **Ahmad Muhammad**, based in Egypt 🇪🇬
 
 I learned Embedded systems engineering, data anaysis, and currently I am into data engineering.
 
-<div class="image-container">
-    <div class="image-wrapper">
-        <img src="Icons/database_12658496.png" alt="Database" class="icon-image">
-    </div>
-    <div class="image-wrapper">
-        <img src="Icons/docker_5969124.png" alt="Docker" class="icon-image">
-    </div>
-    <div class="image-wrapper">
-        <img src="Icons/letter-c_3665899.png" alt="C" class="icon-image">
-    </div>
-    <div class="image-wrapper">
-        <img src="Icons/python_5968286.png" alt="Python" class="icon-image">
-    </div>
-    <div class="image-wrapper">
-        <img src="Icons/ubuntu_6424325.png" alt="Ubuntu" class="icon-image">    
-    <div class="image-wrapper">
-        <img src="Icons/java-script_721671.png" alt="JavaScript" class="icon-image">
-    </div>
+<div align="center">
+    <img src="Icons/database_12658496.png" alt="Database" style="height: 50px; width: 50px; margin-right: 10px;">
+    <img src="Icons/docker_5969124.png" alt="Docker" style="height: 50px; width: 50px; margin-right: 10px;">
+    <img src="Icons/letter-c_3665899.png" alt="Letter C" style="height: 50px; width: 50px; margin-right: 10px;">
+    <img src="Icons/python_5968286.png" alt="Python" style="height: 50px; width: 50px; margin-right: 10px;">
+    <img src="Icons/ubuntu_6424325.png" alt="Ubuntu" style="height: 50px; width: 50px;">
 </div>
+
 
 </body>
 </html>
