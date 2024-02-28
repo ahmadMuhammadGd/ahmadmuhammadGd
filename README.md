@@ -16,13 +16,13 @@ learned Embedded systems engineering, data anaysis, and currently into data engi
 
 
 ## HIGHLIGHTED VOLUNTEERING 🤗
-AUG 2021 - JUL 2022
+AUG 2021 - JUL 2022               
 **SquadX, Egypt** - Head of FundRaising
 
 - Created several business proposals, cold emails, Excel CRMs, and reached out as a team.
 - Presented offline sessions to help members understand prospects’ needs.
 
-OCT 2019 - OCT 2020
+OCT 2019 - OCT 2020                     
 **Mechanical Engineering Club (MEC), Egypt** - OC Member
 
 - Contributed to the success of 5 offline events.
