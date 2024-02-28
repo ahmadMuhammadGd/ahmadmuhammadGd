@@ -12,10 +12,29 @@ Learned Embedded systems engineering, data anaysis, and currently into data engi
     <img src="Icons/ubuntu_888879.png" alt="Ubuntu" style="height: 50px; width: 50px;">
 </div>
 
+### Docker
+I usually use Docker for a clean and movable learning and development environment. It's like learning to cook without missing out on the kitchen!
+
+### C programming
+For low-level programming, fast computing for mathematical equations, and getting closer to this amazing machine.
+
+### Python
+I use Python for reusing AI models, automating tasks, web scraping, making Streamlit apps, and building data pipelines.
+
+### MySQL Server
+I love open-source tools; that's why I prefer this engine over SQL Server.
+
+### JavaScript
+It sounds strange, but did you know that you can automate data flow in Google Sheets using JavaScript in the Apps Script editor?
+
+### Ubuntu
+You know, it's open-source again. I could replace Windows with it. I use shell scripting for automating the process of pushing my changes!
+
+
 
 ## 🐍 EDUCATION 🐍
 JUL 2024    
-**Faculty of Engineering, Tanta University- Electrical Engineering Bachelor**                 
+**Faculty of Engineering, Tanta University** Electrical Engineering Bachelor              
 Electronics and Electrical Communications Engineering Department
 
 ## 🤗 HIGHLIGHTED VOLUNTEERING 🤗
