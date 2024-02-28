@@ -22,13 +22,6 @@ I learned Embedded systems engineering, data anaysis, and currently I am into da
     <img src="Icons/ubuntu_888879.png" alt="Ubuntu" style="height: 50px; width: 50px;">
 </div>
 
-<style>
-    img {
-        margin-right: 20px;
-    }
-</style>
-
-
 
 
 
