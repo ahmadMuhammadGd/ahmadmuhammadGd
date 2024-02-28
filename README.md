@@ -1,8 +1,6 @@
 # ☥ Hi there ☥
-
-My name is **Ahmad Muhammad**, based in Egypt 🇪🇬
-
-learned Embedded systems engineering, data anaysis, and currently into data engineering.
+My name is **Ahmad Muhammad**, based in Egypt 🇪🇬.
+Learned Embedded systems engineering, data anaysis, and currently into data engineering.
 
 ## ☬ STACK ☬
 <div align="center">
