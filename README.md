@@ -1,10 +1,10 @@
-## ☥ Hi there ☥
+# ☥ Hi there ☥
 
 My name is **Ahmad Muhammad**, based in Egypt 🇪🇬
 
 learned Embedded systems engineering, data anaysis, and currently into data engineering.
 
-## ☬ Stack ☬
+## ☬ STACK ☬
 <div align="center">
     <img src="Icons/icons8-docker-144.png" alt="Docker" style="height: 50px; width: 50px;">
     <img src="Icons/icons8-c-programming-144.png" alt="C Programming" style="height: 50px; width: 50px;">
@@ -14,6 +14,11 @@ learned Embedded systems engineering, data anaysis, and currently into data engi
     <img src="Icons/ubuntu_888879.png" alt="Ubuntu" style="height: 50px; width: 50px;">
 </div>
 
+
+## EDUCATION
+JUL 2024    
+**Faculty of Engineering, Tanta University- Electrical Engineering Bachelor**
+Electronics and Electrical Communications Engineering Department
 
 ## HIGHLIGHTED VOLUNTEERING 🤗
 AUG 2021 - JUL 2022               
