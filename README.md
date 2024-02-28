@@ -14,7 +14,7 @@ My name is **Ahmad Muhammad**, based in Egypt 🇪🇬
 I learned Embedded systems engineering, data anaysis, and currently I am into data engineering.
 
 <div align="center">
-    <div style="padding-right: 20px;">
+    <div style="display: flex; padding-right: 20px;">
         <img src="Icons/icons8-docker-144.png" alt="Docker" style="height: 50px; width: 50px;">
     </div>
     <div style="display: inline-block; padding-right: 20px;">
