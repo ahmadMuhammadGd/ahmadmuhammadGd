@@ -1,0 +1,14 @@
+.image-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.image-wrapper {
+    margin-right: 10px; 
+}
+
+.icon-image {
+    height: 50px;
+    width: 50px;
+}
