@@ -1,18 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
 ## ☥ Hi there ☥
 
 My name is **Ahmad Muhammad**, based in Egypt 🇪🇬
 
-I learned Embedded systems engineering, data anaysis, and currently I am into data engineering.
+learned Embedded systems engineering, data anaysis, and currently into data engineering.
 
+## ☬ Stack ☬
 <div align="center">
     <img src="Icons/icons8-docker-144.png" alt="Docker" style="height: 50px; width: 50px;">
     <img src="Icons/icons8-c-programming-144.png" alt="C Programming" style="height: 50px; width: 50px;">
@@ -21,12 +13,6 @@ I learned Embedded systems engineering, data anaysis, and currently I am into da
     <img src="Icons/js_5968292.png" alt="JavaScript" style="height: 50px; width: 50px;">
     <img src="Icons/ubuntu_888879.png" alt="Ubuntu" style="height: 50px; width: 50px;">
 </div>
-
-
-
-
-</body>
-</html>
 
 
 ## HIGHLIGHTED VOLUNTEERING 🤗
