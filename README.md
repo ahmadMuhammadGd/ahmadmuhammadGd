@@ -58,5 +58,5 @@ I love open-source tools; that's why I prefer this engine over SQL Server.
 ### JavaScript
 It sounds strange, but did you know that you can automate data flow in Google Sheets using JavaScript in the Apps Script editor?
 
-### Ubuntu
+### Linux
 You know, it's open-source again. I could replace Windows with it. I use shell scripting for automating the process of pushing my changes!
