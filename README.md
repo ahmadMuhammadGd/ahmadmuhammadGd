@@ -1,4 +1,6 @@
-![Egypt mentioned!](imgs/0f7c352a-8bba-4fb7-a739-3a091ca685af.jpeg)
+<p align="center">
+  <img src="imgs/0f7c352a-8bba-4fb7-a739-3a091ca685af.jpeg" />
+</p>
 
 # ☥ Hi there ☥ 👋👋👋
 My name is **Ahmad Muhammad**, based in Egypt 🇪🇬.
