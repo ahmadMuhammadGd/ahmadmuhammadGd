@@ -23,7 +23,7 @@
 
 <h1 align="center">hey there 👋</h1>
 
-### About Me
+### 🤓 About Me
 
 #### I'm Ahmad from Egypt
 - 🔭 I’m fresh graduate from electronics and electrical communication engineering.
@@ -32,7 +32,7 @@
 
 ------
 
-### Check Out My Best Tool 🎲
+### 🎲 Check Out My Best Tool 
   - [📑 **SQLify - SQL inside Google Apps Script**](https://github.com/ahmadMuhammadGd/SQLify-SQL-inside-Google-Apps-Script): SQLify for Apps Script simplifies data manipulation tasks within Google Apps Script by integrating SQL capabilities. It allows you to handle data more efficiently, leveraging the power of SQL queries directly within your Apps Script projects.
 
 ------
