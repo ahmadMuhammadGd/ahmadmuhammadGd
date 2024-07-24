@@ -23,12 +23,9 @@
 
 <h1 align="center">hey there 👋</h1>
 
-### 🤓 About Me
 
-#### I'm Ahmad from Egypt
-- 🔭 I’m fresh graduate from electronics and electrical communication engineering.
-- 📚 I'm currently learning distributed systems in data engineering.
-- ⚡ In my free time I build pipeline with fictional business requirements.
+### I'm Ahmad from Egypt 🔭 
+I'm a Data Engineer with an electronics and electrical communication engineering background. I work with Python, Apps Script, Apache Airflow, Spark, SQL, and Docker.
 
 ------
 
