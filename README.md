@@ -41,17 +41,43 @@ I'm a Data Engineer with an electronics and electrical communication engineering
 ###
 
 <div align="left">
+    
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="40" alt="airflow logo"  />
+  <img width="12" />  
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
+
+    
+  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" height="40" alt="dbt logo"  />
+  <img width="12" />
+  
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" alt="postgres logo"  />
+  <img width="12" />
+  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+
+  <img src="https://spark.apache.org/images/spark-logo-rev.svg" height="40" alt="spark logo"  />
+  <img width="12" />  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+    
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Apache_Iceberg_Logo.svg" height="40" alt="iceber logo"  />
+  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+
+
 </div>
 
 
