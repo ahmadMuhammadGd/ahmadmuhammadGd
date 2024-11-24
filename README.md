@@ -24,23 +24,66 @@
 <h1 align="center">hey there 👋</h1>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### I'm Ahmad from Egypt 🔭 
 I'm a Data Engineer with an electronics and electrical communication engineering background. I work with Python, Apps Script, Apache Airflow, Spark, SQL, and Docker.
 
-------
 
-### 🎲 Check Out My Best Tools
-  - [🐼 **Pandas DataFrame Corrupter**](https://github.com/ahmadMuhammadGd/Pandas-Data-Frame-Corrupter-For-Data-Pipeline-Tests): Python tool designed for data engineering and testing pipelines. It allows you to apply various data corruption strategies to Pandas DataFrames, helping simulate data anomalies and edge cases for testing and development purposes.
 
-  - [📑 **SQLify - SQL inside Google Apps Script**](https://github.com/ahmadMuhammadGd/SQLify-SQL-inside-Google-Apps-Script): SQLify for Apps Script simplifies data manipulation tasks within Google Apps Script by integrating SQL capabilities. It allows you to handle data more efficiently, leveraging the power of SQL queries directly within your Apps Script projects.
+## 👋 Hey There!
+I'm Ahmad, an Egyptian data engineer passionate about building efficient, reliable, and scalable data pipelines.
+---
 
-------
+## 💼 Data Engineering Stack  
 
-### 🛠 Language and tools
+- **🚀 Big Data Frameworks**: PySpark  
+- **📦 Data Storage and Management**: Iceberg, MinIO, Nessie  
+- **🔄 Workflow Orchestration**: Airflow, SSIS  
+- **✔️ Data Quality**: Soda, dbt, and Regex for failure detection  
+- **🔧 Data Transformation**: dbt (Data Build Tool), SQL, and Jinja templating  
+- **🔗 Version Control for Data**: Implementing branching and versioning with Nessie  
+- **📄 File Formats**: Parquet, CSV, JSON, YAML  
+- **🔁 CI/CD**: GitHub Actions, act  
+- **🐳 Virtualization**: Docker, Docker-Compose  
+- **🧪 Testing**: Python UnitTest, dbt unit tests, Soda quality tests, dbt data tests  
+- **🏗️ Data Modeling**: Kimball Approach, and Data Vaults  
+- **💻 Programming Languages**: Python, JS, SH  
 
-###
 
-<div align="left">
+---
+
+## 🛠️ Projects and Tools I Work With  
+
+
+### ⚙️ ETL Pipelines  
+I design and implement ETL pipelines with a focus on scalability and maintainability, including:  
+- 🧊 **Loading and Partitioning**: Efficiently partitioning tables using Iceberg for optimized query performance.  
+- ☁️ **Object Storage Integration**: Seamlessly integrating with MinIO for robust and scalable data storage.  
+- 🐳 **Environment Orchestration**: Utilizing Docker Compose to set up and manage Spark environments.  
+- ⏱️ **Data-Aware Scheduling**: Decoupling DAGs from each other for better modularity and efficiency.  
+
+### 🤖 Orchestration and Automation  
+- 🌐 **Workflow Management**: Orchestrating remote Spark jobs and managing complex workflows using Airflow.  
+- 🛠️ **Custom Operators**: Developing tailored Airflow operators for executing MinIO commands and dynamically passing arguments to Spark jobs.  
+
+
+<div align="center">
     
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="40" alt="airflow logo"  />
   <img width="12" />  
@@ -79,6 +122,34 @@ I'm a Data Engineer with an electronics and electrical communication engineering
 
 
 </div>
+
+---
+
+## 🧠 Core Principles  
+
+1. **Precision Over Convenience**   
+
+2. **Efficiency First**   
+
+3. **Modularity and Reusability**  
+
+4. **Collaboration is Key**  
+
+---
+
+## 🎯 Future Goals  
+- Deepen my knowledge of dbt and evaluate its potential against custom SQL workflows.  
+- Continue refining incremental load strategies to support real-time analytics.  
+- Explore advanced lakehouse concepts and cutting-edge tools.  
+
+---
+
+## 🤝 Let's Connect!  
+I’m always open to learning and collaborating. If you’re working on an interesting data engineering project, I’d love to discuss and exchange ideas. Let’s build something amazing together!
+
+------
+
+
 
 
 ###
