@@ -25,7 +25,7 @@
 
   
   <h3 align="center">
-    I'm Ahmad, an Egyptian data engineer passionate about building efficient, reliable, and scalable data pipelines.
+    I'm Ahmad, an Egyptian data engineer passionate about building efficient, reliable, and scalable data pipelines
   </h3>
 
 </div>
@@ -44,7 +44,7 @@
 | 🔗 **Version Control for Data**     | Implementing branching and versioning with Nessie                   |  
 | 📄 **File Formats**                 | Parquet, CSV, JSON, YAML                                            |  
 | 🔁 **CI/CD**                        | GitHub Actions, act                                                 |  
-| 🐳 **Virtualization**               | Docker, Docker-Compose                                              |  
+| 🐳 **Containerization**               | Docker, Docker-Compose                                              |  
 | 🧪 **Testing**                      | Python UnitTest, dbt unit tests, Soda quality tests, dbt data tests |  
 | 🏗️ **Data Modeling**                | Kimball Approach, Data Vaults                                       |  
 | 💻 **Programming Languages**        | Python, JS, SH                                                      |  
