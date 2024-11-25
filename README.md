@@ -57,8 +57,7 @@
 |--------------------------------------|--------------------------------------|  
 |  🧊 Loading and Partitioning         |  🌐 Orchestrating remote Spark jobs  |
 |   ☁️ Object Storage Integration       |  🛠️ Custom Airflow Operators via SSH |
-|  🐳 Environment Orchestration        |                                      |
-|  ⏱️ Data-Aware Scheduling            |                                      |
+|  🐳 Environment Orchestration        |  ⏱️ Data-Aware Scheduling            |
 
 
 
