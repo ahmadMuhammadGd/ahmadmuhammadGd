@@ -28,7 +28,7 @@ Core Stack:
 
 
 <p align="center">
-  Contributor @ <a href="https://github.com/ahmadMuhammadGd/dqt.git">data quality tool</a></br>
+  Contributor @ <a href="https://github.com/ahmadMuhammadGd/dqt.git">nativedq</a></br>
   <a href="https://www.linkedin.com/in/ahmadmuhammadgd">LinkedIn</a> •
   <a href="https://ahmadmuhammadgd.github.io">Website</a> •
   <a href="https://dev.to/ahmadmuhammad/">Blog</a>
